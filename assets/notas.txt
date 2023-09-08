@@ -1,0 +1,23 @@
+FlexBox
+    Una propiedad de CSS que permite manipular elementos bajo una caja flexible
+
+    Flex Container
+        Manipulación del contenedor de las etiquetas
+    Flex Item
+        Manipulación individual de una etiqueta dentro de un container
+    Para trabajar con flexbox se manipula la propiedad display
+    Alineación horizontal (justify-content)
+        flex-start: alinea los elementos por defecto (en el origen)
+        flex-end: alinea los elementos en le extremo final del contenedor
+        space-between: hace una separacion interna entre elementos
+        space-around: separación externa e interna
+        space-evenly: separación igual en todas sus direcciones
+    Alienación Vertical: (align-items)
+        flex-start - linea los elementos por defecto (en el origen)
+        flex-end - alinea los elementos en le extremo final del contenedor
+        center - centra los elementos
+    Una etiqueta hija pueder ser padre 
+
+
+
+FlexBox + position
